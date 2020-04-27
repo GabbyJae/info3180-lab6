@@ -20,7 +20,9 @@ Vue.component('app-header', {
             </nav>
         </header>    
     `,
-    data: function() {}
+    data: function(){
+    return {}
+    }
 });
 
 
